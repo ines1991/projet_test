@@ -1,1 +1,3 @@
-funck main();
+package main
+
+func main() {};
